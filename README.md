@@ -7,10 +7,9 @@ Launch VS Code, quick open `Ctrl+P`, paste the following command, and press ente
 #### Download
 The extension is hosted on the <a href="https://marketplace.visualstudio.com/items?itemName=SebastianHT.fp">Visual Studio Code Marketplace.</a>
 
-<img src="/images/img2.jpeg"/>
-<img src="/images/img4.jpeg"/>
-<img src="/images/img3.jpeg"/>
-
+![image info](./images/img2.jpeg)
+![image info](./images/img4.jpeg)
+![image info](./images/img3.jpeg)
 
 <div align='center'>
 <a href="https://twitter.com/datcanelita" target="_blank">

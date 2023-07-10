@@ -7,9 +7,9 @@ Launch VS Code, quick open `Ctrl+P`, paste the following command, and press ente
 #### Download
 The extension is hosted on the <a href="https://marketplace.visualstudio.com/items?itemName=SebastianHT.fp">Visual Studio Code Marketplace.</a>
 
-![image info](https://github.com/sebastian-huamani/Extencion-vs/blob/main/images/img2.jpeg)
-![image info](https://github.com/sebastian-huamani/Extencion-vs/blob/main/images/img4.jpeg)
-![image info](https://github.com/sebastian-huamani/Extencion-vs/blob/main/images/img3.jpeg)
+![image info](https://github.com/sebastian-huamani/Extencion-vs/blob/main/images/img2.jpg)
+![image info](https://github.com/sebastian-huamani/Extencion-vs/blob/main/images/img4.jpg)
+![image info](https://github.com/sebastian-huamani/Extencion-vs/blob/main/images/img3.jpg)
 
 <div align='center'>
 <a href="https://twitter.com/datcanelita" target="_blank">

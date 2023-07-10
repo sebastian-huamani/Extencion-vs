@@ -1,7 +1,6 @@
 {
-	"name": "fp-theme",
-	"icon" : "me.jpg"
-	"description" : "test",
+	"name": "Neon Side",
+	"description": "working ...",
 	"colors": {
 		"editor.background": "#1a1818",
 		"editor.foreground": "#959696",
@@ -64,9 +63,26 @@
 		"titleBar.activeBackground": "#1d1f287d",
 		"titleBar.activeForeground": "#ffffff",
 		// ---------Terminal colors  // pendiente
-		"terminal.background":"#1a1818", 
-		"terminal.foreground":"#12d24f", 
-
+		"terminal.background": "#1a1818",
+		"terminal.foreground":"#D9D8D8",
+		"terminalCursor.background":"#D9D8D8",
+		"terminalCursor.foreground":"#D9D8D8",
+		"terminal.ansiBlack":"#231F20",
+		"terminal.ansiBlue":"#009DDC",
+		"terminal.ansiBrightBlack":"#737171",
+		"terminal.ansiBrightBlue":"#009DDC",
+		"terminal.ansiBrightCyan":"#85CEBC",
+		"terminal.ansiBrightGreen":"#00853E",
+		"terminal.ansiBrightMagenta":"#98005D",
+		"terminal.ansiBrightRed":"#EE2E24",
+		"terminal.ansiBrightWhite":"#FFFFFF",
+		"terminal.ansiBrightYellow":"#FFD204",
+		"terminal.ansiCyan":"#85CEBC",
+		"terminal.ansiGreen":"#00853E",
+		"terminal.ansiMagenta":"#98005D",
+		"terminal.ansiRed":"#EE2E24",
+		"terminal.ansiWhite":"#D9D8D8",
+		"terminal.ansiYellow":"#FFD204",
 	},
 	"tokenColors": [
 		{
@@ -81,7 +97,6 @@
 		},
 		{
 			"settings": {
-				"background": "#1d2021",
 				"foreground": "#ebdbb2"
 			}
 		},

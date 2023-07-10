@@ -1,16 +1,22 @@
-# fp README
+<h1 style="text-align:center">🌑 Dark Theme Neon 🌑</h1>
+<hr>
 
-## Working with Markdown
+#### Installation
+Launch VS Code, quick open `Ctrl+P`, paste the following command, and press enter.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+#### Download
+The extension is hosted on the <a href="https://marketplace.visualstudio.com/items?itemName=SebastianHT.fp">Visual Studio Code Marketplace.</a>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Descripcasdasd e la imagen](/images/img2.jpeg)
 
-## For more information
+![Descripcasdasd e la imagen](/images/img4.jpeg)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Descripcasdasd e la imagen](/images/img3.jpeg)
 
-**Enjoy!**
+<div align='center'>
+<a href="https://twitter.com/datcanelita" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
+</a>
+  <a href="https://linkedin.com/in/huamanitassara/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+</a>

@@ -1,8 +1,10 @@
 {
   "name": "fp",
-  "displayName": "fp",
-  "description": "fp-description",
-  "version": "0.0.1",
+  "publisher": "SebastianHT",
+  "icon": "images/me.jpg",
+  "displayName": "Neon Side",
+  "description": "VS Theme dark Neon",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.80.0"
   },

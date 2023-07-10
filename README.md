@@ -9,7 +9,7 @@ The extension is hosted on the <a href="https://marketplace.visualstudio.com/ite
 
 
 
-![image info](images/img2.png)
-![image info](/images/img4.png)
-![image info](./images/img3.png)
+![images 2](images/img2.png)
+![images 4](/images/img4.png)
+![images 3](./images/img3.png)
 

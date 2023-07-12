@@ -1,10 +1,10 @@
 {
   "name": "fp",
   "publisher": "SebastianHT",
-  "icon": "images/me.jpg",
+  "author": "Sebastian HT <huamanitassara@gmail.com>",
   "displayName": "Neon Side",
   "description": "VS Theme dark Neon",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -19,5 +19,10 @@
         "path": "./themes/fp-theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastian-huamani/Extencion-vs"
+  },
+  "icon": "images/me.jpg"
 }
